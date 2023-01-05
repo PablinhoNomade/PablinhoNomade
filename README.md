@@ -1,6 +1,7 @@
 ### Olá ! Eu sou o Pablo 👋
 
--🌱 Estudando javaScritp/Node.js - Cubos Academy -
+-🌱 Estudando JavaScritp/Node.js - Cubos Academy -
+-🌱 Estudando JavaScritp/HTML5/CSS3 - Alura/Oracle -
 
 <div align="center">
   <a href="https://github.com/PablinhoNomade/">
