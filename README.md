@@ -14,8 +14,6 @@
   <img align="center" alt="NodeJs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/143/143687.png">
-  <img align="center"  height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">  
 <img align="right"     height="145" width="230" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJG2T54v2J60Euaiill96dIDnHh7qTGgFiZPgt2wI6-iWXsxj0qSCsMbtOSmFCXOPfszI&usqp=CAU">
   
 </div>
