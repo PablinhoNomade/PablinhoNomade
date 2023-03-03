@@ -3,7 +3,7 @@
 <p>-🌱 Estudando JavaScritp/Node.js - Cubos Academy -</p>
 <p>-🌱 Estudando JavaScritp/HTML5/CSS3 - Alura/Oracle -</p>
  
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
 <div style="display: inline_block"><br>
   <img align="top" alt="JavaScript"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="top" alt="NodeJs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
