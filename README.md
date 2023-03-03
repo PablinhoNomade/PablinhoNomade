@@ -12,7 +12,7 @@
   <img align="top"
 <a  href="http://www.github.com/pablinhonomade">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablinhonomade&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" />
-<img align="right"     height="145" width="230" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJG2T54v2J60Euaiill96dIDnHh7qTGgFiZPgt2wI6-iWXsxj0qSCsMbtOSmFCXOPfszI&usqp=CAU">
+<img align="right"     height="170" width="190" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJG2T54v2J60Euaiill96dIDnHh7qTGgFiZPgt2wI6-iWXsxj0qSCsMbtOSmFCXOPfszI&usqp=CAU">
  
 
   ![Snake animation](https://github.com/PablinhoNomade/PablinhoNomade/blob/output/github-contribution-grid-snake.svg)
