@@ -1,7 +1,7 @@
 ### Olá ! Eu sou o Pablo 👋
-
-<p>-🌱 Estudando JavaScritp/Node.js - Cubos Academy -</p>
-<p>-🌱 Estudando JavaScritp/HTML5/CSS3 - Alura/Oracle -</p>
+<p>-🌱 JavaScritp/Puppeter - Gosto Mais do Que Café -</p>
+<p>-🌱 JavaScritp/Node.js - Cubos Academy -</p>
+<p>-🌱 JavaScritp/HTML5/CSS3 - Alura/Oracle -</p>
  
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 <div style="display: inline_block"><br>
