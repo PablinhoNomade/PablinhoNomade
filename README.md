@@ -1,4 +1,5 @@
 ### Olá ! Eu sou o Pablo 👋
+<p>-🌱 Python/Aprendendo - Bora aprender nunca é de mais ! -</p>
 <p>-🌱 JavaScritp/Puppeter - Gosto Mais do Que Café -</p>
 <p>-🌱 JavaScritp/Node.js - Cubos Academy -</p>
 <p>-🌱 JavaScritp/HTML5/CSS3 - Alura/Oracle -</p>
